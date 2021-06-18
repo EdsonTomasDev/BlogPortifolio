@@ -4,22 +4,18 @@
     font-style: normal;
     color: #21243d;
     padding-bottom: 17px;
+    margin-bottom: 64px;
+   
 }
 
-.portifolio-post__title {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 60px;    
-   
-    font-size: 18px;
-    font-weight: 400;
-}
+
 
 .portifolio-post__img {
     width: 339px;
     height: 230px;
 }
+
+
 .portifolio-post__img1 {
     width: 339px;
     height: 230px;
@@ -27,30 +23,36 @@
     margin-bottom: 23px;
 }
 
+
 .portifolio-post__img2 {
     width: 339px;
     height: 230px;
     margin-bottom: 30px;
 }
 
+
 .portifolio-post__text {
     margin-top: 17px;
     margin-left: 18px;
     margin-right: 18px;
 }
+
+
 .portifolio-post__text h1 {
-    font-size: 22px;
+    font-size: 30px;
     font-weight: 700;
-    margin-bottom: 12px;
+    margin-bottom: 24px;
     line-height: 30px;
     text-align: left;
 }
 
+
 .portifolio-post__texttime {
     display:flex;
     align-items: center;
-    margin-bottom: 64px;
+    margin-bottom: 24px;
 }
+
 
 .portifolio-post__texttime--time {
     display: flex;
@@ -60,22 +62,27 @@
     border-radius: 16px;
     width: 62px;
     height: 25px;
+    font-size: 18px;
+    font-weight: 700;
 
     color: #ffffff;
 }
 
+
 .portifolio-post__text h3 {
     margin-left: 12px;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 400;
     color: #8695a4;
 }
+
 
 .portifolio-post__text p {
     font-size: 16px;
     font-weight: 400;
     line-height: 23.5px;
     text-align: left;
+    margin-bottom: 23px;
 }
 
 .portifolio-post__text2 {
@@ -107,3 +114,4 @@
     line-height: 23.5px;
     text-align: left;
 }
+
