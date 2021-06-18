@@ -1,0 +1,49 @@
+.blog-post {
+    background: #edf7fa;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    color: #21243d;
+    padding-bottom: 38px;
+   
+}
+
+.blog-post__title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 60px;    
+   
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.blog-post__text {
+    margin-left: 11px;
+    margin-right: 10px;
+    margin-bottom: 17px;
+    padding-left: 19px;
+    padding-right: 21px;
+    padding-top: 12px;
+    padding-bottom: 22px;
+    background: #ffffff;
+}
+
+.blog-post__text h1 {
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: 12px;
+    line-height: 30px;
+}
+
+.blog-post__text h3 {
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 19px;
+}
+
+.blog-post__text p {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 23.5px;
+}

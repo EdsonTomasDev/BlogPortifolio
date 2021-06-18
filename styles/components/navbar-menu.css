@@ -1,6 +1,6 @@
 .navbar-menu {
      height: 50px;
-     background: green;
+   
 }
 
 .navbar-menu__img {
@@ -11,7 +11,7 @@
 
 .profile {
     text-align: center;
-    background: orange;
+   
     padding-bottom: 27px;
 }
 .profile_img {
