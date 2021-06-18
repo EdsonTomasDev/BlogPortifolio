@@ -1,0 +1,28 @@
+.footer {
+    margin-top: 150px;
+   
+}
+
+.footer__icon {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+   
+}
+
+.footer__icon img:not(:last-child) {
+    margin-right: 35px;
+}
+
+.footer__text {
+    margin-top: 26px;
+    margin-bottom: 54px;
+    text-align: center;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-size: 14px;
+    font-weight: 400;
+    color: #21243d;
+
+}

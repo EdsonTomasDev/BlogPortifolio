@@ -20,6 +20,18 @@
     width: 339px;
     height: 230px;
 }
+.portifolio-post__img1 {
+    width: 339px;
+    height: 230px;
+    margin-top: 24px;
+    margin-bottom: 23px;
+}
+
+.portifolio-post__img2 {
+    width: 339px;
+    height: 230px;
+    margin-bottom: 30px;
+}
 
 .portifolio-post__text {
     margin-top: 17px;
@@ -60,6 +72,36 @@
 }
 
 .portifolio-post__text p {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 23.5px;
+    text-align: left;
+}
+
+.portifolio-post__text2 {
+    margin-top: 17px;
+    margin-left: 18px;
+    margin-right: 18px;
+
+}
+
+.portifolio-post__text2 h1 {
+    font-size: 26px;
+    font-weight: 500;
+    margin-bottom: 12px;
+    line-height: 30px;
+    text-align: left;
+}
+
+.portifolio-post__text2 h2 {
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 12px;
+    line-height: 30px;
+    text-align: left;
+}
+
+.portifolio-post__text2 p {
     font-size: 16px;
     font-weight: 400;
     line-height: 23.5px;
