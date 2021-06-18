@@ -1,0 +1,59 @@
+.navbar-menu {
+     height: 50px;
+     background: green;
+}
+
+.navbar-menu__img {
+    float: right;
+    margin-top: 20px;
+    margin-right: 18px;
+}
+
+.profile {
+    text-align: center;
+    background: orange;
+    padding-bottom: 27px;
+}
+.profile_img {
+    width: 174px;
+    height: 180px;
+    margin-top: 33px;
+    margin-bottom: 34px;
+}
+
+.profile h1{
+    font-family: 'Heebo';
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    text-align: center;
+    margin-left: 31px;
+    margin-right: 32px;
+
+}
+
+.profile p{
+    font-family: 'Heebo';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 21px;
+    margin-left: 23px;
+    margin-right: 24px;
+    margin-bottom: 27px;
+     
+}
+.profile__btn {
+    width: 208px;
+    height: 47px;
+    border: none;
+    background: #ff6464;
+    border-radius: 3px;
+
+    font-family: 'Heebo';
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    
+}

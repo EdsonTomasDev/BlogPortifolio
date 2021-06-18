@@ -1,5 +1,2 @@
 @import url(../general/reset.css);
-
-body {
-    background: green;
-}
+@import url(../components/navbar-menu.css);
